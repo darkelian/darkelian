@@ -1,4 +1,4 @@
-## Hi 👋 I'm Elian Jaimes<img width="50px"
+## Hi 👋 I'm Elian Jaimes
 ### Developer Unity Jr
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22%3E][linkedin]
 [linkedin]: https://www.linkedin.com/in/elianjaimes/
