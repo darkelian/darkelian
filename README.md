@@ -14,3 +14,9 @@
 <img align="left" width="30px" alt="JAVA" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg">
 <img align="left" width="30px" alt="UNITY3D" src="https://icon-library.com/images/unity-icon/unity-icon-5.jpg">
 <img align="left" width="30px" alt="PHYTON" src="https://www.nicepng.com/png/full/416-4168821_overview-python-lenguaje-de-programacion.png">
+<br>
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkelian&theme=algolia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkelian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
